@@ -4,7 +4,7 @@
 
 https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
 
-<img src="assets/network.png"  alt="Neural Network Architecture" height="200">
+<img src="assets/network.png"  alt="Neural Network Architecture" height="400">
 
 ### Generate names
 
